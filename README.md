@@ -1,3 +1,5 @@
+---
+---
 # Arcade Swarm animation
 
 Renders an image into the screen pixel per pixel.
